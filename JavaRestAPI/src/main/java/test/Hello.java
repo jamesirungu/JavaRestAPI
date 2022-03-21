@@ -37,7 +37,7 @@ public class Hello {
 	 String response;
 	 if(amount>1000) {
 		 System.out.println("Greater than 1000");
-		 response="Credit card not approved";
+		 response="Credit card not approved ";
 	 }
 	 else {
 		 System.out.println("Less than 1000");
